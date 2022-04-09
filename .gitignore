@@ -1,0 +1,4 @@
+data/
+.env
+.env.prod
+.env.prod.db
